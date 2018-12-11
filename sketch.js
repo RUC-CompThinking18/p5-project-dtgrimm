@@ -7,14 +7,12 @@ var img;
 var offset = 0;
 var easing = 0.05//moves the image closer to the cursor if the distance is more than one pixel.
 
-function preload(){
-  sound = loadSound('lordquotes.mp3');
-}
 
 
 
 function preload(){
   img = loadImage('tadpolegalaxy.jpg');//loads the image to use as the background
+  sound = loadSound('lordquotes.mp3');
 }
 
 function setup() {
