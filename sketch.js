@@ -2,7 +2,8 @@
 It loads a background image, then the interactive image. The interactive image has a transparent effect put on it.
 He is in space for he makes up all living things.
 I was having a hard time coming up with a good idea for this project, so I decided to make something that is vaguely entertaining while still containing interactive elements for the user to use.
- */
+I think the effect on the voice matches the overall aesthetic pretty well. The only things I had a little trouble with was getting the Nicolas Cage
+image to appear on top of the canvas and I struggled with getting the sound to play for quite a bit.*/
 
 var sound;
 var img;
